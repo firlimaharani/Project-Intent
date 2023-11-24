@@ -212,8 +212,6 @@ Jika awal pembuatan project kita memilih template Empty Views Activity, maka pad
         android:scaleType="centerCrop"/>
 
 </RelativeLayout>
-Maka tampilannya akan seperti ini :
-WhatsApp Image 2023-11-19 at 19 11 46_b9d46af7
 
 Setelah itu kita buka MainActivity.java untuk menambahkan code intent untuk masing-masing tombol :
 package com.projectintent;
